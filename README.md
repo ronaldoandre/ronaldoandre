@@ -1,8 +1,5 @@
 <div align="center">
   <h1>Olá!👋 Eu sou Ronaldo André</h1>
-
-  <p>🔭 Hoje trabalho com front-end</p>
-  <p>🌱 Estudando React.js</p>
 </div>
 <div align="center">
   <a href="https://github.com/ronaldoandre">
